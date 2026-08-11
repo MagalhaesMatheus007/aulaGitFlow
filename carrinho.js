@@ -1,1 +1,1 @@
-console.log("Ola mundo, com carrinho")
+console.log("Ola mundo com carrinho")
